@@ -1,0 +1,26 @@
+---
+title: "partner"
+author: "Ashlan Simpson"
+date: "2/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Username: ashlanjo
+
+Recent Commit Code:c795b38d1bde895725c9cbce40e95a5b94edd7ea
+
+Recent Commit Description: Created a repository holding the first homework in it. The first homework was comprised of both a html file and a R script file. 
+
+Error/Difficulty: I had a hard time navigating pwd and cd but I finally got it figured out. I would just recommend practice. 
+
+
+
+
+
+
+
+
